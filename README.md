@@ -1,5 +1,6 @@
 ## Weizhi An
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](personal.png)
+
 Ph.D student in UTA  
 
 Department of Computer Science and Engineering
