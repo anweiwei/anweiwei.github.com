@@ -1,9 +1,12 @@
 ## Weizhi An(安威志）
 
-Ph.D student in UTA
+Ph.D student in UTA  
+
 Department of Computer Science and Engineering
-University of Texas at Arlington
-Email: weizhi.an@mavs.uta.edu
+University of Texas at Arlington  
+
+Email: weizhi.an@mavs.uta.edu  
+
 [Google Scholar](https://scholar.google.com/citations?user=nHiIAvYAAAAJ&hl=en)
 
 ### Markdown
