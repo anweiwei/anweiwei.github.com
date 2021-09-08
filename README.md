@@ -1,5 +1,5 @@
 ## Weizhi An
-![avatar](personal.png)
+![avatar](personal.jpg)
 
 Ph.D student in UTA  
 
