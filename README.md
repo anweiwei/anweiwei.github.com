@@ -21,8 +21,8 @@ Computer Vision; Drug/Protein Property Prediction; Gait Recognition
 
 ### Publication
 1. Rijun Liao, **Weizhi An**, Zhu Li, Shuvra S Bhattacharyya.A novel view synthesis approach based on view space covering for gait recognition, Neurocomputing, 2021.  
-2.  **Weizhi An**, Hehuan Ma, Yuzhi Guo, Yu Rong, Peilin Zhao, Junzhou Huang. Exploring Robustness of Unsupervised Domain Adaptation in Semantic Segmentation. Jinyu Yang, Chunyuan Li, ICCV 2021  
-3.  **Weizhi An**, Yuhong Wang, Hongmao Sun, Ruili Huang, Junzhou Huang.Deep Graph Learning with Property Augmentation for Predicting Drug-Induced Liver Injury. Hehuan Ma, Chemical Research in Toxicology, 2020.
+2.  Jinyu Yang, Chunyuan Li, **Weizhi An**, Hehuan Ma, Yuzhi Guo, Yu Rong, Peilin Zhao, Junzhou Huang. Exploring Robustness of Unsupervised Domain Adaptation in Semantic Segmentation. Jinyu Yang, Chunyuan Li, ICCV 2021  
+3. Hehuan Ma, **Weizhi An**, Yuhong Wang, Hongmao Sun, Ruili Huang, Junzhou Huang.Deep Graph Learning with Property Augmentation for Predicting Drug-Induced Liver Injury. Hehuan Ma, Chemical Research in Toxicology, 2020.
 4.  **Weizhi An**, Shiqi Yu, Yasushi Makihara, Xinhui Wu, Chi Xu, Yang Yu, Rijun Liao, Yasushi Yagi.Performance evaluation of model-based gait on multi-view very large population database with pose sequences, IEEE Transactions on Biometrics, Behavior, and Identity Science, 2020.  
 5.  Jinyu Yang, **Weizhi An**, Sheng Wang, Xinliang Zhu, Chaochao Yan, Junzhou Huang.Label-Driven Reconstruction for Domain Adaptation in Semantic Segmentation, ECCV 2020.
 6.  Jinyu Yang, **Weizhi An**, Chaochao Yan, Peilin Zhao, Junzhou Huang. Context-Aware Domain Adaptation in Semantic Segmentation,WACV 2021.  
