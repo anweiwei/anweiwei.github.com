@@ -1,4 +1,4 @@
-## Weizhi An(安威志）
+## Weizhi An
 
 Ph.D student in UTA  
 
@@ -9,12 +9,10 @@ Email: weizhi.an@mavs.uta.edu
 
 [Google Scholar](https://scholar.google.com/citations?user=nHiIAvYAAAAJ&hl=en)
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am a third-year Ph.D. student in Computer Science at the University of Texas at Arlington, supervised by Dr. Junzhou Huang.  
+I obtained my M.S. degree from Shenzhen University in 2019, and B.S. degree from Shenzhen University in 2016.
 
 # Header 1
 ## Header 2
