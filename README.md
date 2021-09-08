@@ -1,7 +1,5 @@
 ## Weizhi An
-![avatar](personal.jpg){:height="30%" width="30%"}
-
-Ph.D student in UTA  
+![avatar](personal.jpg) Ph.D student in UTA  
 
 Department of Computer Science and Engineering
 University of Texas at Arlington  
